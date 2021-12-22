@@ -1,2 +1,2 @@
-# SMBCS
-Super market billing calculation system
+# S.M.B.C.S
+## `Super market billing calculation system`
